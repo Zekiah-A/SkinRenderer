@@ -1,0 +1,4 @@
+*.gch
+*.blend1
+.vscode/
+skin-renderer
